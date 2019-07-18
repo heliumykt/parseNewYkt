@@ -1,4 +1,4 @@
 # parseNewYkt
 * Parse of the site http://news.ykt.ru/
-#Notice
+# Notice
 * in developing
